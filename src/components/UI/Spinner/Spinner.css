@@ -43,7 +43,7 @@
   -webkit-transform-origin: 0px 5.1em;
   transform-origin: 0px 5.1em;
   -webkit-animation: load2 2s infinite ease;
-  animation: load2 1s infinite ease;
+  animation: load2 2s infinite ease;
 }
 @-webkit-keyframes load2 {
   0% {
