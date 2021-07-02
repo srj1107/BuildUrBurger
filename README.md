@@ -52,7 +52,7 @@ Start the front-end
 
 #### Confirmation Page
 
-![Confirmation-Page](images/confirmation-page.png)
+![Confirmation-Page](images/confirmation.png)
 
 ---
 
